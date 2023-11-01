@@ -1,5 +1,5 @@
-const sum = require('./index.js');
+const sum = require("./index.js");
 
-test('console log', () => {
-    //
+test("console log", () => {
+  //
 });
