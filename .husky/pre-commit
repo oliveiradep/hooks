@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo "#Format code"
+prettier . --write
+
+echo "#Lint fix"
+eslint --max-warnings=0 --fix
