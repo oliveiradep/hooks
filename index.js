@@ -1,7 +1,5 @@
-const a = 1;
-
-function print() {
-  console.log("Hello, World!!!!!");
+function print () {
+  console.log('Hello, World!!!!')
 }
 
-print();
+print()
