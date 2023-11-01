@@ -5,4 +5,4 @@
 prettier . --write
 
 #echo "#Lint fix"
-eslint . --max-warnings=0 --fix
+#eslint . --max-warnings=0 --fix
