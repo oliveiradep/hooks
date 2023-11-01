@@ -1,6 +1,6 @@
-const a = 1;
-function print() {
-  console.log("Hello, World!!!!");
+function sum (a, b) {
+  console.log('Realiza soma')
+  return a + b
 }
 
-print();
+sum()
