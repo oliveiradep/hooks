@@ -18,8 +18,14 @@
   },
   "homepage": "https://github.com/oliveiradep/hooks#readme",
   "dependencies": {
-    "eslint": "^8.52.0",
     "husky": "^8.0.3",
     "prettier": "^3.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.52.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-n": "^16.2.0",
+    "eslint-plugin-promise": "^6.1.1"
   }
 }
